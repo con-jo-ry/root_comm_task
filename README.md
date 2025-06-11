@@ -1,4 +1,4 @@
-## MAtching Root Texts and Commentaries
+## Matching Root Texts and Commentaries
 
 This repository contains training data for a downstream task aimed at identifying commentarial passages on a given root text.
 
