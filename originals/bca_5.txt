@@ -1,5 +1,3 @@
-# Bodhicaryāvatāra ch. 5: Saṃprajanyarakṣaṇaṃ
-
 śikṣāṃ rakṣitukāmena cittaṃ rakṣyaṃ prayatnataḥ |
 na śikṣā rakṣituṃ śakyā calaṃ cittam arakṣatā || 5.1 ||
 
@@ -328,3 +326,6 @@ kāyenaiva paṭhiṣyāmi vākpāṭhena tu kiṃ bhavet |
 cikitsāpāṭhamātreṇa rogiṇaḥ kiṃ bhaviṣyati || 5.109 ||
 
 iti bodhicaryāvatāre saṃprajanyarakṣaṇaṃ nāma pañcamaḥ paricchedaḥ ||
+
+
+

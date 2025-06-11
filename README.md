@@ -15,4 +15,9 @@ Abbreviations:
 | ht | Hevajratantra |
 | taraa | Tattvaratnāvaloka by Vāgīśvarakīrti |
 | bca | Bodhicaryāvatāra by Śāntideva |
+| bca_p | Bodhicaryāvatāra Pañjikā by Prajñākaramati |
 | ra | Ratnāvalī by Kamalanātha |
+| cmt | Caṇḍamahāroṣaṇatantra |
+| gg | Gītagovinda |
+| msv | Mīmāṃsāślokavārttika |
+| ssa | Śivastotrāvalī |
