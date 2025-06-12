@@ -21,3 +21,5 @@ Abbreviations:
 | gg | Gītagovinda |
 | msv | Mīmāṃsāślokavārttika |
 | ssa | Śivastotrāvalī |
+| seni | Sekanirdeśa |
+| mua | Muktāvalī by Ratnākaraśānti |
