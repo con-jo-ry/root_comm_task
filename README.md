@@ -17,11 +17,12 @@ Abbreviations:
 | bca | Bodhicaryāvatāra by Śāntideva |
 | bca_p | Bodhicaryāvatāra Pañjikā by Prajñākaramati |
 | ra | Ratnāvalī by Kamalanātha |
-| cmt | Caṇḍamahāroṣaṇatantra |
-| gg | Gītagovinda |
+| cmt | Caṇḍamahāroṣaṇatantra with commentary by Mahāsukhavajra |
+| gg | Gītagovinda with commentary by Mānāṅka |
 | msv | Mīmāṃsāślokavārttika |
 | ssa | Śivastotrāvalī |
 | seni | Sekanirdeśa |
 | mua | Muktāvalī by Ratnākaraśānti |
 | nasa | Nāmasaṃgīti with commentary by Vilāsavajra (v)
 | medū | Meghadūta with commentary by Mallinātha (mall)
+| ks | Kumārasaṃbhava
