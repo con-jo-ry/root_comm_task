@@ -23,3 +23,5 @@ Abbreviations:
 | ssa | Śivastotrāvalī |
 | seni | Sekanirdeśa |
 | mua | Muktāvalī by Ratnākaraśānti |
+| nasa | Nāmasaṃgīti with commentary by Vilāsavajra (v)
+| medū | Meghadūta with commentary by Mallinātha (mall)
